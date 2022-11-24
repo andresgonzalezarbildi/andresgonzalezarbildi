@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [andresgonzalez.netlify.app](andresgonzalez.netlify.app)
+- 👨‍💻 All of my projects are available at [andresgonzalez.netlify.app](https://andresgonzalez.netlify.app/)
 
 - 📄 Know about my experiences [andresgonzalez.netlify.app/resume](andresgonzalez.netlify.app/resume)
 
