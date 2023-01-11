@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [andresgonzalez.netlify.app](https://andresgonzalez.netlify.app/)
 
-- 📄 Know about my experiences [andresgonzalez.netlify.app/resume](andresgonzalez.netlify.app/resume)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1NNxWqosB45X2srvyzZrzz6o2s9LNvXQ9/edit?usp=sharing&ouid=116692439965197818707&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I also build handmade guitars.**
 
