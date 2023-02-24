@@ -27,4 +27,4 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=andresgonzalezarbildi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/andresgonzalezarbildi/github-readme-stats#gh-light-mode-only)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresgonzalezarbildi&show_icons=true&locale=en&layout=compact" alt="andresgonzalezarbildi" />
   
-![Snake animation](https://github.com/andresgonzalezarbildi/andresgonzalezarbildi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/andresgonzalezarbildi/andresgonzalezarbildi/blob/output/github-contribution-grid-snake.gif)
