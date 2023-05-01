@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="45" height="45" />, I'm Andres</h1>
 <h3 align="center">A Software Engineer from Uruguay</h3>
 
-- 🔭 I’m currently working on a mobile app for a Startup 
+- 🔭 I’m currently working on a personal finance app for a Startup 
 
 - 🌱 I’m always learning **JavaScript**
 
