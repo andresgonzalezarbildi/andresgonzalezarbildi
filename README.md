@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a personal finance app for a Startup 
 
-- 🌱 I’m always learning **JavaScript**
+- 🌱 I’m always learning **new technologies**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [andresgonzalez.netlify.app](https://andresgonzalez.netlify.app/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BKRfHLaECvt3mvjDoCmWHPXsrqEgw9ih/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ojDc7HLb9Jr7qBNQWoQ9xoIAE1jH8n1c/view?usp=sharing)
 
 - ⚡ Fun fact **I also build handmade guitars.**
 
