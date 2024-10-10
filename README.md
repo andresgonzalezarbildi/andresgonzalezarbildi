@@ -20,8 +20,7 @@
 </p>
 
 <h3 align="left">My GitHub History!</h3>
-
-![snake gif](https://github.com/andresgonzalezarbildi/andresgonzalezarbildi/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/andresgonzalezarbildi/andresgonzalezarbildi/output/github-contribution-grid-snake.svg" />
 
 <h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
