@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build practical software for real problems: financial workflows, data analysis, study organization and everyday automation.
+  I build practical software for real problems: financial workflows, data analysis, organization and everyday automation.
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ## About me
 
-- I am currently studying Computer Engineering at Universidad de la República.
+- I am currently studying Computer Engineering at UDELAR.
 - I enjoy turning repetitive or disorganized processes into clear, usable tools.
-- My recent work includes accounting reconciliation, personal finance, body-weight analytics and interactive study platforms.
-- I work mainly with JavaScript, Node.js, Java and Python.
+- My recent work includes interactive platforms and tools designed to improve productivity.
+- I work mainly with JavaScript, Node.js and Python.
 - I am interested in full-stack development, data-driven interfaces and software that solves concrete problems.
 
 ## Featured projects
