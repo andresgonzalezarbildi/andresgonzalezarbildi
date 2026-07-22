@@ -1,3 +1,52 @@
+<h1 align="center">
+  Hi
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png"
+    alt="Waving hand"
+    width="42"
+    height="42"
+  />,
+  I'm Andrés
+</h1>
+
+<h3 align="center">
+  Full-Stack Developer and Computer Engineering student from Uruguay
+</h3>
+
+<p align="center">
+  I build practical software for real problems: productivity, financial workflows,
+  data analysis and study organization.
+</p>
+
+<p align="center">
+  <a href="https://andresgonzalez.netlify.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-35ecff?style=for-the-badge"
+      alt="Portfolio"
+    >
+  </a>
+  <a href="https://www.linkedin.com/in/andresgonzalezarbildi/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+  <a href="https://drive.google.com/file/d/1Vuv5h202UsZ_7ubXAAaVGon6wDnf_e1n/view?usp=sharing">
+    <img
+      src="https://img.shields.io/badge/Resume-View-d8ff56?style=for-the-badge"
+      alt="Resume"
+    >
+  </a>
+</p>
+
+## About me
+
+- I am currently studying Computer Engineering at UDELAR.
+- I enjoy turning repetitive or disorganized processes into clear, usable tools.
+- My recent work includes interactive platforms and tools designed to improve productivity.
+- I work mainly with JavaScript, Node.js and Python.
+- I am interested in full-stack development, data-driven interfaces and software that solves concrete problems.
+
 <h2>Featured projects</h2>
 
 <table>
@@ -75,3 +124,41 @@ Event-management system with web and desktop components for handling users, even
 </td>
 </tr>
 </table>
+
+## More projects
+
+### [Ca$hFlow](https://github.com/andresgonzalezarbildi/CashFlowApp)
+
+Full-stack personal finance application for managing accounts, income, expenses and balances.
+
+`Node.js` · `Express` · `EJS` · `MongoDB` · `Mongoose`
+
+### [carlonchoStars](https://andresgonzalezarbildi.github.io/carlonchoStars/)
+
+Card game where the player bets that a third card will fall strictly between the first two.
+
+`HTML` · `CSS` · `JavaScript` · `Deck of Cards API`
+
+### [PruebaFight](https://pruebafight.netlify.app/)
+
+Responsive website developed for a local gym according to the client's requirements.
+
+`HTML` · `CSS` · `JavaScript`
+
+## Technologies
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,nodejs,python,java,html,css,react,express,mongodb,postgres,git,github&perline=12"
+    alt="Technologies"
+  >
+</p>
+
+## My GitHub activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/andresgonzalezarbildi/andresgonzalezarbildi/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution grid snake animation"
+  >
+</p>
