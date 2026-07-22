@@ -54,7 +54,7 @@
 <td width="50%" valign="top">
 <h3 align="center">Conciliapp</h3>
 <a href="https://andresgonzalez.netlify.app/conciliapp/">
-<img src="./assets/conciliapp.png" width="100%" alt="Conciliapp screenshot">
+<img src="conciliapp.png" width="100%" alt="Conciliapp screenshot">
 </a>
 <p>
 Browser-based accounting reconciliation tool for comparing movements from two different sources, proposing matches and reviewing unresolved records.
@@ -70,7 +70,7 @@ Browser-based accounting reconciliation tool for comparing movements from two di
 <td width="50%" valign="top">
 <h3 align="center">MASA</h3>
 <a href="https://andresgonzalez.netlify.app/masa/">
-<img src="./assets/masa.png" width="100%" alt="MASA screenshot">
+<img src="masa.png" width="100%" alt="MASA screenshot">
 </a>
 <p>
 Health analytics platform that treats body weight as a measurable system, combining real data, energy balance and observed trends.
@@ -88,7 +88,7 @@ Health analytics platform that treats body weight as a measurable system, combin
 <td width="50%" valign="top">
 <h3 align="center">Study Platforms</h3>
 <a href="https://andresgonzalez.netlify.app/plan/">
-<img src="./assets/study-platforms.png" width="100%" alt="Study platforms screenshot">
+<img src="study-platforms.png" width="100%" alt="Study platforms screenshot">
 </a>
 <p>
 Interactive platforms for preparing Computer Architecture and Operating Systems exams, with roadmaps, daily plans, exercise banks and progress tracking.
@@ -110,7 +110,7 @@ Interactive platforms for preparing Computer Architecture and Operating Systems 
 <td width="50%" valign="top">
 <h3 align="center">EventosUy</h3>
 <a href="https://github.com/andresgonzalezarbildi/EventosUy">
-<img src="./assets/eventosuy.png" width="100%" alt="EventosUy screenshot">
+<img src="eventosuy.png" width="100%" alt="EventosUy screenshot">
 </a>
 <p>
 Event-management system with web and desktop components for handling users, events, editions, registrations and attendance.
