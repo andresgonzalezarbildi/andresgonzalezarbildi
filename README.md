@@ -31,7 +31,7 @@
       alt="LinkedIn"
     >
   </a>
-  <a href="https://drive.google.com/file/d/1Vuv5h202UsZ_7ubXAAaVGon6wDnf_e1n/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1FqBDjI88FY0f93qJJRE1RNN8cgBP8RAr/view?usp=sharing">
     <img
       src="https://img.shields.io/badge/Resume-View-d8ff56?style=for-the-badge"
       alt="Resume"
