@@ -31,7 +31,7 @@
       alt="LinkedIn"
     >
   </a>
-  <a href="https://drive.google.com/file/d/1FqBDjI88FY0f93qJJRE1RNN8cgBP8RAr/view?usp=sharing">
+  <a href="https://raw.githubusercontent.com/andresgonzalezarbildi/andresgonzalezarbildi/main/Andres%20Gonzalez%20CV.pdf?utm_source=chatgpt.com">
     <img
       src="https://img.shields.io/badge/Resume-View-d8ff56?style=for-the-badge"
       alt="Resume"
